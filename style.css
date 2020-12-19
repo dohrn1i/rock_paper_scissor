@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+}
+body {
+    background-color: gray;
+    size: 1000px;
+}
+.user-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+#result {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
